@@ -2,7 +2,7 @@
 name: Change Request
 about: Request a new feature or change
 title: ''
-labels: enhancement
+labels: change
 assignees: ''
 ---
 
