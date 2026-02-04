@@ -2,7 +2,7 @@
 name: Other
 about: General issue that doesn't fit other categories
 title: ''
-labels: ''
+labels: other
 assignees: ''
 ---
 
