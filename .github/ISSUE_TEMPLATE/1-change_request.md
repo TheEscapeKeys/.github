@@ -12,18 +12,13 @@ assignees: ''
 
 ## Value Statement
 <!-- As a [user] I want [change] because [reason its valuable to the business] -->
-As a [user] I want [change] because [reason]
 
 ## Proposed Solution
 <!-- How should it work -->
 
 
-## Priority
-<!-- Critical / High / Medium / Low -->
-
-
-## Screenshots/Mockups
-<!-- Visual references -->
+## Assets
+<!-- Link to visual references, designs, etc. -->
 
 
 ## Additional Context
