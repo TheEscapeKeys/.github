@@ -14,9 +14,5 @@ assignees: ''
 <!-- What is this about -->
 
 
-## Priority
-<!-- Critical / High / Medium / Low -->
-
-
 ## Additional Context
 <!-- Anything else relevant -->

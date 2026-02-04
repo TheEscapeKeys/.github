@@ -19,7 +19,7 @@ assignees: ''
 
 
 ## Time Box
-<!-- How long should this take (e.g. 2 days, 1 sprint) -->
+<!-- How long should this take (e.g. 2 days) -->
 
 
 ## Expected Output
@@ -32,10 +32,6 @@ assignees: ''
 
 ## Scope
 <!-- What's in/out of scope -->
-
-
-## Priority
-<!-- Critical / High / Medium / Low -->
 
 
 ## Additional Context

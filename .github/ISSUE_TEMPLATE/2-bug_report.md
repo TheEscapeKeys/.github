@@ -28,10 +28,6 @@ assignees: ''
 <!-- Browser, OS, device, app version, etc. -->
 
 
-## Severity
-<!-- Critical / High / Medium / Low -->
-
-
 ## Screenshots/Recordings
 <!-- Attach any visual evidence -->
 
