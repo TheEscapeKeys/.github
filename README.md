@@ -1,4 +1,3 @@
-# .github
 This repository contains organization-wide GitHub configurations that apply to all repositories in the organization.
 
 Issue Templates
