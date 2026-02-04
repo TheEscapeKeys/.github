@@ -1,0 +1,57 @@
+name: Change Request
+description: Request a new feature or change
+labels: ["enhancement"]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: Short description of the change
+      placeholder: e.g. Add dark mode to dashboard
+    validations:
+      required: true
+
+  - type: textarea
+    id: value-statement
+    attributes:
+      label: Value Statement
+      description: As a [user] I want [change] because [reason its valuable to the business]
+      placeholder: As a [user] I want [change] because [reason]
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution
+      description: How should it work
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - Critical
+        - High
+        - Medium
+        - Low
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/Mockups
+      description: Visual references
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Anything else relevant
+    validations:
+      required: false
